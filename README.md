@@ -35,3 +35,8 @@ https://parxsy.github.io/tic_tac_toe/
 
 ## 📂 Project Structure
 
+tic_tac_toe/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
