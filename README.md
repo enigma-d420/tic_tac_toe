@@ -7,7 +7,7 @@ The project features a clean UI, smooth animations, and a celebratory **firework
 
 ## 🚀 Live Demo
 👉 **Play the game here:**  
-https://parxsy.github.io/tic_tac_toe/
+https://enigma-d420.github.io/tic_tac_toe/
 
 ---
 
